@@ -1,4 +1,4 @@
-# internship
+# Internship App
 
 A simple app ui for internship/job portal. 
 
