@@ -19,8 +19,8 @@ Here are some of the project screen shots.<br><br><br>
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/idkashutosh/internship.git internship
-    $ cd internship/
+    $ git clone https://github.com/idkashutosh/internship-app-ui.git
+    $ cd internship-app-ui/
     $ flutter packages get
     $ flutter run
 
